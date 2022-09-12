@@ -1,0 +1,6 @@
+name: NameRecorder
+version: '${project.version}'
+main: cat.nyaa.namerecorder.NameRecorder
+api-version: 1.18
+prefix: NameRecorder
+description: record player's name with uuid
